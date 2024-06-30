@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CurrencyConverter Dayhuff
 //
-//  Created by Ellie Dayhuff on 6/30/24.
+//  Created by Noah Dayhuff on 6/30/24.
 //
 
 import UIKit
